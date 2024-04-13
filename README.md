@@ -1,1 +1,1 @@
-# Curso_Python_Plan_SM
+# 1ra vez en la interfaz readme
