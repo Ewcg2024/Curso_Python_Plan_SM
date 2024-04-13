@@ -1,1 +1,1 @@
-# 1ra vez en la interfaz readme
+# Curso de Python
